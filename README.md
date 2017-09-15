@@ -20,11 +20,10 @@ As a user, ...
 * I want options to view all foods, only high-calorie foods (more than 500 calories), or only lower-calorie foods (less than 500 calories).
 * I want to click a food to edit its name, details or calories (in case I decide to pretend my fries were 100 calories instead of 365).
 
-
 ## Setup/Installation Requirements
 
-* You can also clone this repo. 
-  * You will need to run npm install and bower install for the dependancies
+* Clone or Download the repository on your command line terminal to view or edit the content. GitBash.exe for windows and Terminal for Linux.
+* You will need to run npm install and bower install for the dependancies.
 
 ## Known Bugs
 
@@ -33,11 +32,20 @@ No known bugs
 ## Technologies Used
 
 - HTML
-- SCSS
-- Node packages
-- Bower packages
 - Angular 2
 - Typescript
+- Node packages
+- Bower packages
+- SCSS
+
+## Contributors
+>This was an independent project. For any corrections or improvement kindly contact me on gmail.(shadrack.winters@outlook.com)
+>--
+## Project Setup.
+>* 1.You'll need a text editor such as Github's Atom. 
+>* 2.Bootstrap framework to facilitate the better format of the website. 
+>* 3.Javascript and jquery to facilitate the mathematical prospect of the project.
+>--
 
 ### License
 
