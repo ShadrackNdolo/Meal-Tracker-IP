@@ -27,7 +27,7 @@ As a user, ...
 
 ## Known Bugs
 
-No known bugs
+You will have to set up the gulp server for testing.
 
 ## Technologies Used
 
